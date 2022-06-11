@@ -31,7 +31,7 @@ public class Main {
         int[][] matrixInverseByColumns = new int[n][m];
 
         generateMatrix(matrixInverseByColumns);
-        System.out.println("Output matrix is:");
+        System.out.println("Output matrix is: ");
         printMatrix(matrixInverseByColumns);
         //System.out.println(Arrays.toString(matrixInverseByColumns));
     }
