@@ -23,7 +23,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the number of matrix raws: ");
+        System.out.print("Enter the number of matrix rows: ");
         int n = scanner.nextInt();
         System.out.print("Enter the number of matrix columns: ");
         int m = scanner.nextInt();
